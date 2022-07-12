@@ -1,0 +1,8 @@
+[
+    {
+        "content": "<p>Tak jak zostal on zapowiedziany : oto format pracy zaliczeniowej:</p>\n<p><strong>   Strona html importujaca model stworzony w blenderze. </strong></p>\n<ul>\n<li>Poslugujac sie narzedziami w edit mode + sculpt mode + modifiers, prosze o przygotowanie modelu. </li>\n<li>Dla modelu prosze takze o przygotowanie mapy UV i tekstury ktora zostanie na niego nalozona.</li>\n<li>Model eksportowac bedziemy w formacie obj. i ‘importowac’ go w obszar przegladarki, dlatego bierzmy pod uwage ilosc poligonow z ktortych sie sklada (im wieksza rozdzielczosc tym bardziej nasza przegladarka bedzie sie krztusić)</li>\n<li>nastepnie : stworzyc prosta strone HTML, i zawrzec w niej Javascript importujacy stworzony model.</li>\n</ul>\n<p>rezultaty skolekcjonujemy tutaj <a class=\"stream-topic\" data-stream-id=\"14\" href=\"/#narrow/stream/14-Praca_zaliczeniowa/topic/rezultaty\">#Praca_zaliczeniowa &gt; rezultaty</a></p>",
+        "id": 107,
+        "sender_full_name": "Stefan Glowacki",
+        "timestamp": 1648165559
+    }
+]

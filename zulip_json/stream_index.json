@@ -1,0 +1,275 @@
+{
+    "streams": {
+        "Cześć": {
+            "id": 8,
+            "latest_id": 32,
+            "topic_data": {
+                "Powitanie": {
+                    "latest_date": 1646315088,
+                    "size": 2
+                },
+                "stream events": {
+                    "latest_date": 1646252638,
+                    "size": 1
+                }
+            }
+        },
+        "Inwentarz": {
+            "id": 11,
+            "latest_id": 158,
+            "topic_data": {
+                "Zestaw 1.": {
+                    "latest_date": 1646397704,
+                    "size": 8
+                },
+                "machine learning / machine vision": {
+                    "latest_date": 1654852721,
+                    "size": 4
+                },
+                "p5, czyli kto ?": {
+                    "latest_date": 1650919910,
+                    "size": 1
+                },
+                "stream events": {
+                    "latest_date": 1646316303,
+                    "size": 1
+                }
+            }
+        },
+        "Ogłoszenia": {
+            "id": 9,
+            "latest_id": 154,
+            "topic_data": {
+                "co potem ?": {
+                    "latest_date": 1650920870,
+                    "size": 1
+                },
+                "nagranie 13.05": {
+                    "latest_date": 1652973424,
+                    "size": 1
+                },
+                "nagranie+zadanie+Farocki": {
+                    "latest_date": 1647038639,
+                    "size": 2
+                },
+                "nagranie01.04+javascriptGdziePocwiczyc+podsumowanie": {
+                    "latest_date": 1649259657,
+                    "size": 1
+                },
+                "nagranie18.03+zadanie+pracaZaliczeniowa": {
+                    "latest_date": 1648221996,
+                    "size": 1
+                },
+                "nagranie2204+ekstras": {
+                    "latest_date": 1650920691,
+                    "size": 2
+                },
+                "stream events": {
+                    "latest_date": 1646255717,
+                    "size": 1
+                },
+                "zadanie zaliczeniowe update": {
+                    "latest_date": 1653064682,
+                    "size": 1
+                }
+            }
+        },
+        "Praca_zaliczeniowa": {
+            "id": 14,
+            "latest_id": 153,
+            "topic_data": {
+                "Opis_zadania": {
+                    "latest_date": 1648165559,
+                    "size": 1
+                },
+                "rezultaty": {
+                    "latest_date": 1648165654,
+                    "size": 1
+                },
+                "stream events": {
+                    "latest_date": 1648165436,
+                    "size": 1
+                },
+                "update re: zadanie zal.": {
+                    "latest_date": 1653026519,
+                    "size": 3
+                }
+            }
+        },
+        "Wsparcie_różne": {
+            "id": 4,
+            "latest_id": 141,
+            "topic_data": {
+                "JS / p5 - gdziePocwiczyc": {
+                    "latest_date": 1650919938,
+                    "size": 2
+                },
+                "stream events": {
+                    "latest_date": 1645176383,
+                    "size": 2
+                }
+            }
+        },
+        "Wsparcie_zadania domowe": {
+            "id": 5,
+            "latest_id": 139,
+            "topic_data": {
+                "array modifier": {
+                    "latest_date": 1650909773,
+                    "size": 1
+                },
+                "blender : adnotacje": {
+                    "latest_date": 1649253414,
+                    "size": 1
+                },
+                "na czym stoimi": {
+                    "latest_date": 1650919820,
+                    "size": 1
+                },
+                "sculpting : fallout + kierunek": {
+                    "latest_date": 1649252266,
+                    "size": 4
+                },
+                "stream events": {
+                    "latest_date": 1645176369,
+                    "size": 2
+                },
+                "uzupelnieni_re:modifiers": {
+                    "latest_date": 1648165311,
+                    "size": 1
+                }
+            }
+        },
+        "spotkanie_01.04": {
+            "id": 15,
+            "latest_id": 128,
+            "topic_data": {
+                "do pocwiczenia": {
+                    "latest_date": 1649259480,
+                    "size": 1
+                },
+                "nagranie": {
+                    "latest_date": 1649252899,
+                    "size": 1
+                },
+                "podsumowanie_dotychczas": {
+                    "latest_date": 1649259561,
+                    "size": 1
+                },
+                "stream events": {
+                    "latest_date": 1649252731,
+                    "size": 1
+                }
+            }
+        },
+        "spotkanie_04.03": {
+            "id": 7,
+            "latest_id": 123,
+            "topic_data": {
+                "plan działania": {
+                    "latest_date": 1647033446,
+                    "size": 2
+                },
+                "pytania + feedback": {
+                    "latest_date": 1645190207,
+                    "size": 1
+                },
+                "stream events": {
+                    "latest_date": 1645190064,
+                    "size": 1
+                },
+                "zadanie domowe": {
+                    "latest_date": 1646953498,
+                    "size": 24
+                },
+                "zadanie domowe_rezultaty": {
+                    "latest_date": 1649252342,
+                    "size": 3
+                }
+            }
+        },
+        "spotkanie_13.05": {
+            "id": 17,
+            "latest_id": 149,
+            "topic_data": {
+                "stream events": {
+                    "latest_date": 1652973261,
+                    "size": 1
+                },
+                "swiatla, kamera, rendery": {
+                    "latest_date": 1652973382,
+                    "size": 1
+                }
+            }
+        },
+        "spotkanie_18.02": {
+            "id": 3,
+            "latest_id": 117,
+            "topic_data": {
+                "plan działania": {
+                    "latest_date": 1645175769,
+                    "size": 2
+                },
+                "pytania + feedback": {
+                    "latest_date": 1645176581,
+                    "size": 1
+                },
+                "zadanie domowe": {
+                    "latest_date": 1649251492,
+                    "size": 4
+                }
+            }
+        },
+        "spotkanie_18.03": {
+            "id": 13,
+            "latest_id": 135,
+            "topic_data": {
+                "plan_dzialania": {
+                    "latest_date": 1648209194,
+                    "size": 1
+                },
+                "stream events": {
+                    "latest_date": 1648163901,
+                    "size": 1
+                },
+                "zadanie_domowe": {
+                    "latest_date": 1648164874,
+                    "size": 19
+                },
+                "zadanie_domowe_rezultaty": {
+                    "latest_date": 1650909497,
+                    "size": 6
+                }
+            }
+        },
+        "spotkanie_22.04": {
+            "id": 16,
+            "latest_id": 142,
+            "topic_data": {
+                "nagranie": {
+                    "latest_date": 1650920191,
+                    "size": 1
+                },
+                "stream events": {
+                    "latest_date": 1650919518,
+                    "size": 1
+                }
+            }
+        },
+        "testtest": {
+            "id": 12,
+            "latest_id": 134,
+            "topic_data": {
+                "stream events": {
+                    "latest_date": 1647038093,
+                    "size": 1
+                },
+                "testtest": {
+                    "latest_date": 1650638731,
+                    "size": 3
+                }
+            }
+        }
+    },
+    "time": 1657664534.7167182
+}

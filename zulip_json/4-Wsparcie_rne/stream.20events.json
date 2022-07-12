@@ -1,0 +1,14 @@
+[
+    {
+        "content": "<p>Stream created by <span class=\"user-mention silent\" data-user-id=\"8\">Stefan Glowacki</span>.</p>",
+        "id": 15,
+        "sender_full_name": "Notification Bot",
+        "timestamp": 1645176207
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"8\">Stefan Glowacki</span> renamed stream <strong>Centrum wsparcia_różne</strong> to <strong>Wsparcie_różne</strong>.</p>",
+        "id": 18,
+        "sender_full_name": "Notification Bot",
+        "timestamp": 1645176383
+    }
+]

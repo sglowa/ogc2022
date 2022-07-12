@@ -1,0 +1,8 @@
+[
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"*\">@all</span> <br>\njesli chodzi o czesc dalsza, na nastepnym spotkaniu moglibysmy </p>\n<ul>\n<li><span aria-label=\"beetle\" class=\"emoji emoji-1f41e\" role=\"img\" title=\"beetle\">:beetle:</span> . zobaczyc jak 'wyciagnac' nasze szkice z edytora p5 i uruchamiac je 'bezposrednio' w przegladarce (pierwsze kroki do tego zeby samemu hostowac je jako ogolnodostepna strona internetowa)</li>\n<li><span aria-label=\"mushroom\" class=\"emoji emoji-1f344\" role=\"img\" title=\"mushroom\">:mushroom:</span> . zobaczyc jak korzystajac z API (application programing interface) zasysac na zywo obrazu z google image search i wykorzystywac je w naszych szkicach</li>\n<li><span aria-label=\"cactus\" class=\"emoji emoji-1f335\" role=\"img\" title=\"cactus\">:cactus:</span> . wynurzyc sie z kodowania, wrocic do blendera i omowic kwestie renderowania naszych scen (+ oswietlenie + kamera)</li>\n</ul>\n<p>Domyslnie : proponuje opcje 1. + 2.  ALE jesli macie inne checi, mozecie zaglosowac na wybrana propozycje dodajac przypisany jej emoji . co sadzicie?</p>",
+        "id": 145,
+        "sender_full_name": "Stefan Glowacki",
+        "timestamp": 1650920870
+    }
+]
