@@ -1,0 +1,20 @@
+[
+    {
+        "content": "<p>tutaj mozecie wrzucac zadania ze spotkania 04.03</p>",
+        "id": 110,
+        "sender_full_name": "Stefan Glowacki",
+        "timestamp": 1648221646
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"11\">Magda Gramsz</span> <a href=\"#narrow/stream/3-spotkanie_18.2E02/topic/zadanie.20domowe/near/116\">said</a>:</p>\n<blockquote>\n<p><a href=\"/user_uploads/2/3b/YntntnxFCOKFDMIJlrwqAU2B/blender_instrukcja_snake_hook.pdf\">blender_instrukcja_snake_hook.pdf</a> <br>\nInstrukcja do ostatniego zadania - Snake Hook</p>\n</blockquote>\n<p>Dzieki wielkie Magda ! Dobrze ze wyprobowalas rozne ksztalty dla 'falloff', mozna osiagnac w ten sposob znaczaca rozne rezultaty - jakby co  <strong>opcje falloff mozna tez zmieniac dla innych narzedzi rzezbienia</strong> (porada dla wszystkich).</p>\n<p>oprocz gornego paska w viewporcie, dostep do opcji narzedzia mamy tez w oknie 'properties' i w panelu bocznym viewportu (zwijany/rozwijany klawiszem N)</p>\n<p><a href=\"user_uploads/2/99/VPEQZI12WKNV5S18XOLh1fi_/image.png\">image.png</a></p>\n<div class=\"message_inline_image\"><a href=\"user_uploads/2/99/VPEQZI12WKNV5S18XOLh1fi_/image.png\" title=\"image.png\"><img src=\"user_uploads/2/99/VPEQZI12WKNV5S18XOLh1fi_/image.png\"></a></div><p><a href=\"user_uploads/2/56/OP2sqxZFaBMcLnl4TlP8wNba/image.png\">image.png</a></p>\n<div class=\"message_inline_image\"><a href=\"user_uploads/2/56/OP2sqxZFaBMcLnl4TlP8wNba/image.png\" title=\"image.png\"><img src=\"user_uploads/2/56/OP2sqxZFaBMcLnl4TlP8wNba/image.png\"></a></div><p>Jesli chodzi o sam snake hook, dodam jeszcze ze duzo zalezy od tego czy uzywamy go z opcja dyntopo (dobudowywania topografii w miare sculptowania) ktora znosi ograniczenia wynikajace z zachowania rozdzielczosci modelu (przejawiajace sie np. tym ze : im blizej czubka węża tym mniejsza rozdzielczosc). wlaczenie dyntopo pozwala nam tez np. na dodanie malych węży wyrastających z dużych węży stworzonych przez nas wczesniej.   </p>\n<p>Dodatkowa wskazowka dla wszyztkich : normalnie kierunek dzialania narzedzi w sculpt mode dyktowany jest przez kierunek normals'ów na ktorych stosujemy nasz pedzel (innymi slowy - kierunek w ktorym zwrocone są poligony w czesci modelu na ktorej rzezbimy). Jesli chcemy, alternatywnie mozemy brac kierunek przeksztalcen z widoku naszej kamery - stosujemy wtedy nasze narzedzie z wcisnietym ctrl (cmd). Trudno to opisac w slowach ale jesli wyprobujecie te 2 tryby z np. snake hook zobaczycie na czym polega roznica.</p>\n<p>jeszcze raz Dzieki Magda !</p>",
+        "id": 118,
+        "sender_full_name": "Stefan Glowacki",
+        "timestamp": 1649251512
+    },
+    {
+        "content": "<p>Dzięki  za info z opcją dyntopo, bo odczułam jej brak. Wypróbuję później. :)</p>",
+        "id": 123,
+        "sender_full_name": "Magda Gramsz",
+        "timestamp": 1649252342
+    }
+]

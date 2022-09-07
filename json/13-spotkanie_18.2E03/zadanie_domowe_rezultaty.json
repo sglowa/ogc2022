@@ -1,0 +1,38 @@
+[
+    {
+        "content": "<p>tutaj zapraszam do wrzucania rezultatow zadania domowego</p>",
+        "id": 86,
+        "sender_full_name": "Stefan Glowacki",
+        "timestamp": 1648164107
+    },
+    {
+        "content": "<p>wrzucam moje działania w blenderze (również te z pędzlami) , mam nadzieję, że dobrze zapisałam i się otworzy <a href=\"/user_uploads/2/d0/CoI5Qu15sTurB8Yb8u412ohx/pędzel2.blend\">pędzel2.blend</a> <a href=\"/user_uploads/2/fe/SmXhHBzIdq3TAGceq-y57BMx/pędzle1.blend\">pędzle1.blend</a> <a href=\"/user_uploads/2/b6/EYlqdsx2zZF82QD0vYSCzm-E/subdivision.blend\">subdivision.blend</a></p>",
+        "id": 114,
+        "sender_full_name": "Patrycja Filarska",
+        "timestamp": 1648818256
+    },
+    {
+        "content": "<p><span class=\"user-mention silent\" data-user-id=\"13\">Patrycja Filarska</span> <a href=\"#narrow/stream/13-spotkanie_18.2E03/topic/zadanie_domowe_rezultaty/near/114\">said</a>:</p>\n<blockquote>\n<p>wrzucam moje działania w blenderze (również te z pędzlami) , mam nadzieję, że dobrze zapisałam i się otworzy <a href=\"/user_uploads/2/d0/CoI5Qu15sTurB8Yb8u412ohx/pędzel2.blend\">pędzel2.blend</a> <a href=\"/user_uploads/2/fe/SmXhHBzIdq3TAGceq-y57BMx/pędzle1.blend\">pędzle1.blend</a> <a href=\"/user_uploads/2/b6/EYlqdsx2zZF82QD0vYSCzm-E/subdivision.blend\">subdivision.blend</a></p>\n</blockquote>\n<p>Super! zaraz zerkne !</p>",
+        "id": 115,
+        "sender_full_name": "Stefan Glowacki",
+        "timestamp": 1648819246
+    },
+    {
+        "content": "<p>Cześć, wrzucam dowody na przećwiczenie całego zakresu z  drugiego spotkania, niestety nie załapałam kilku rzeczy, ale coraz swobodniej przychodzi mi poruszanie się po tym programie.<br>\n<a href=\"https://we.tl/t-cdKMOyaUCT\">https://we.tl/t-cdKMOyaUCT</a><br>\nPozdrawiam, Magda!</p>",
+        "id": 131,
+        "sender_full_name": "Magdalena Wiatrowsa",
+        "timestamp": 1650558416
+    },
+    {
+        "content": "<p>Super ! dzieki wielkie, niedlugo spojrze</p>",
+        "id": 132,
+        "sender_full_name": "Stefan Glowacki",
+        "timestamp": 1650638578
+    },
+    {
+        "content": "<p><span class=\"user-mention\" data-user-id=\"17\">@Magdalena Wiatrowsa</span> </p>\n<p>hejo, przejrzalem dowody :^) dobrze ze udalo Ci sie przecwiczyc az tyle.<br>\nna poczatek - pare rzeczy ktore nie zadzialaly tak jak powinny :</p>\n<ul>\n<li>\n<p>mirror modifier - tutaj troche trudno ocenic co sie dzieje, na podstawie screenu nie dam rady zdiagnozowac; jesli dalej bedziesz miala problem z mirror to sprobuj go troche dokladniej opisac i dojdziemy do tego co tam sie dzieje. generalnie, osie ktorych uzywa mirror modifier do tworzenia tych odbic przebiegaja przez <em>origin point</em>  naszego modelu (ta mala pomaranczowa kropka). Wiec jesli nasza kropka znajduje sie <strong>w srodku</strong> obiektu to ten obiekt jest de facto duplikowany, odwrocony, i nakladany sam na siebie - a jesli ten obiekt juz byl symetryczny, tak jak ta malpa to to ze teraz jest podwojony nie bedzie widoczne. Wiec zeby troche lepiej zobaczyc jak dziala mirror modifier, proponuje poprzemieszczac troche <em>origin point</em> (Object -&gt; Set Origin), albo np. usunac czesc modelu w <em>Edit Mode</em> . Przypomnienie: przesuwajac nasz model w <em>edit mode</em> polozenie jego <em>origin point</em>  pozostaje niezmienne (origin point w ktorym mirror modifier stawia os symetrii).</p>\n</li>\n<li>\n<p>jesli chodzi o Array modifier </p>\n<p>1: Array Modifier bierze dlugosc  <em>curve</em> ktørego w nim uzywamy (tryb Fit Curve) ale nie jego polozenia czy obrotu - innymi slowy to w ktorym kierunku powielany jest nasz obiekt zalezy od ustawien Offset w samym modifierze.  <br>\n<a href=\"/user_uploads/2/2a/ixmGPOuPeKN1NoyInNsB_FkE/arr3.gif\">curve wydluzam wertykalnie ale obiekt kopiowany jest horyzontalnie</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/2/2a/ixmGPOuPeKN1NoyInNsB_FkE/arr3.gif\" title=\"curve wydluzam wertykalnie ale obiekt kopiowany jest horyzontalnie\"><img src=\"/user_uploads/2/2a/ixmGPOuPeKN1NoyInNsB_FkE/arr3.gif\"></a></div><p>2: jesli wydluzamy nasza krzywa w <em>Object Mode</em> musimy potem ta transformacje zaaplikowac (uzywajac Object -&gt; Apply (ctrl/cmd + a) -&gt; scale |albo|  -&gt; all transforms). Natomiast jesli manipujemy tym <em>curve</em> w <em>edit mode</em> , skalujac go albo ekstrudujac albo przemieszczajac jego punkty kontrolne, to wtedy to jak jego zmieniajacy sie ksztalt wplywa na Array modifier zobaczymy odrazu. <br>\n<a href=\"/user_uploads/2/db/2k2VEGCa8lhETviiSzrs2RXn/arr2.gif\">curve wydluzany w Object Mode</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/2/db/2k2VEGCa8lhETviiSzrs2RXn/arr2.gif\" title=\"curve wydluzany w Object Mode\"><img src=\"/user_uploads/2/db/2k2VEGCa8lhETviiSzrs2RXn/arr2.gif\"></a></div></li>\n</ul>\n<p><a href=\"/user_uploads/2/10/Jl6WVAGGfoAzxgNxhQh2n4hm/arr1.gif\">curve wydluzany w edit mode</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/2/10/Jl6WVAGGfoAzxgNxhQh2n4hm/arr1.gif\" title=\"curve wydluzany w edit mode\"><img src=\"/user_uploads/2/10/Jl6WVAGGfoAzxgNxhQh2n4hm/arr1.gif\"></a></div><p>Ciesze sie ze zwieksza sie komfort z jakim nawigujesz po programie! <br>\njesli chodzi o same ramy tych 'zadan domowych' ( ##<strong>spotkanie_04.03&gt;zadanie domowe</strong>  &amp;  ##<strong>spotkanie_18.03&gt;zadanie_domowe</strong> ) - to w sumie nie musisz zbierac 'dowodow' na to ze cwiczysz - bardziej chodzi o to zeby przy okazji tych ekspolarcji wejsc glebiej w konkretny zakamarek programu (konkretniej wybrany modifier(s) i sculpting tool(s)), przebadac rozne opcje ktore oferuje; poczytac troche o nim, poszperac na youtubie, zobaczyc jak zachowuje sie na roznych modelach, roznych rozdzielczosciach modeli, przy roznych ustawieniach (eg. <em>dyntopo</em> on/off dla <em>scultping tools</em> ) i opisac to w sposob ktory bedzie zrozumialy dla innych (eg. reszty osob w naszej grupie). Innymi slowy - udokumentowac go tak aby przedstawic to narzedzie w sposob w jaki ty bys chciala zeby przedstawione zostaly ci inne narzedzia :^) dodatkowo, przy troche dokladniejszym opisie latwiej bedzie diagnozowac czemu pewne rzeczy nie daja oczekiwanych rezultatow (jak w obecnym przypadku mirror modifier).</p>\n<p>w kazdym, dobra robota i ciesze sie te narzedzia stopniowo sie przed Toba otwieraja, mam nadzieje tez za pojawiaja sie jakies pomysly na to jak mozesz je wykorzystywac w swojej praktyce artystycznej.</p>",
+        "id": 135,
+        "sender_full_name": "Stefan Glowacki",
+        "timestamp": 1650909497
+    }
+]

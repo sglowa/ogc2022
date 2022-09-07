@@ -1,0 +1,14 @@
+[
+    {
+        "content": "<p>Poniżej plan działania dla naszego inaugurującego spotkania</p>",
+        "id": 12,
+        "sender_full_name": "Stefan Glowacki",
+        "timestamp": 1645175368
+    },
+    {
+        "content": "<p><strong>I. Powitania</strong></p>\n<hr>\n<p><strong>II. Prezentacja Zajęć</strong></p>\n<ul>\n<li>Ramy<ul>\n<li>obszar teoretyczny </li>\n<li>narzędzia</li>\n</ul>\n</li>\n<li>Dlaczego Obraz Generowany Cyfrowo ?</li>\n<li>Cele i ograniczenia</li>\n<li>Struktura Zajęć</li>\n<li>Pytania ?</li>\n</ul>\n<hr>\n<p><strong>III. Wprowadznie do Blendera</strong></p>\n<ul>\n<li>Tło historyczne, kontekst </li>\n<li>Workflows</li>\n<li>Interfejs</li>\n</ul>",
+        "id": 13,
+        "sender_full_name": "Stefan Glowacki",
+        "timestamp": 1645175769
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "content": "<p>po ostatniej naszej rozmowie ograniczylismy troche skale zadania, nowa skala zadania :</p>",
+        "id": 151,
+        "sender_full_name": "Stefan Glowacki",
+        "timestamp": 1652973550
+    },
+    {
+        "content": "<p>Cześć, ustalona forma zaliczenia: Stworzenie obiektu z użyciem narzędzi które omówiliśmy (edit mode)(wszystkie narzędzia), narzędzia w trybie rzeźbienia (dodawanie poligonów)i modifier.<br>\nStworzenie obiektu, nadanie mu faktury, materiału. Działania z teksturą i mapą UV. Użycie texture paint. <br>\nModel eksportujemy w formacie obj i teksturę w formacie png.</p>",
+        "id": 152,
+        "sender_full_name": "Patrycja Filarska",
+        "timestamp": 1653026505
+    },
+    {
+        "content": "<p>Mam nadzieję, że wszystko dobrze napisałam :)</p>",
+        "id": 153,
+        "sender_full_name": "Patrycja Filarska",
+        "timestamp": 1653026519
+    }
+]

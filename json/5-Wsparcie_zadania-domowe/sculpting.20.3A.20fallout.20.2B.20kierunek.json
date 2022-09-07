@@ -1,0 +1,26 @@
+[
+    {
+        "content": "<p>Przy okazji realizacji cwiczenia z sculpt tools przypomnialo mi sie pare wskazowek :</p>",
+        "id": 119,
+        "sender_full_name": "Stefan Glowacki",
+        "timestamp": 1649251884
+    },
+    {
+        "content": "<p>dla wiekszosci narzedzi w sculpt mode mozna zmieniac ksztalt 'fallout', czyli gradientu po jakim rozchodzi sie intensywnosc pedzla</p>\n<p><a href=\"/user_uploads/2/7c/AzPA4xs0X68Ks5bvDKXfoSik/image.png\">image.png</a></p>\n<div class=\"message_inline_image\"><a href=\"/user_uploads/2/7c/AzPA4xs0X68Ks5bvDKXfoSik/image.png\" title=\"image.png\"><img src=\"/user_uploads/2/7c/AzPA4xs0X68Ks5bvDKXfoSik/image.png\"></a></div>",
+        "id": 120,
+        "sender_full_name": "Stefan Glowacki",
+        "timestamp": 1649252100
+    },
+    {
+        "content": "<p>normalnie kierunek dzialania narzedzi w sculpt mode dyktowany jest przez kierunek normals'ów na ktorych stosujemy nasz pedzel (innymi slowy - kierunek w ktorym zwrocone są poligony w czesci modelu na ktorej rzezbimy). Jesli chcemy, alternatywnie mozemy brac kierunek przeksztalcen z widoku naszej kamery - stosujemy wtedy nasze narzedzie z wcisnietym ctrl (cmd). Trudno to opisac w slowach ale jesli wyprobujecie te 2 tryby z np. snake hook zobaczycie na czym polega roznica.</p>",
+        "id": 121,
+        "sender_full_name": "Stefan Glowacki",
+        "timestamp": 1649252132
+    },
+    {
+        "content": "<p>dla wiekszej jasnosci : tutaj wskazowki w kontekscie w ktorym sobie o nich przypomnialem : <a href=\"#narrow/stream/7-spotkanie_04.2E03/topic/zadanie.20domowe_rezultaty/near/118\">tu</a></p>",
+        "id": 122,
+        "sender_full_name": "Stefan Glowacki",
+        "timestamp": 1649252266
+    }
+]

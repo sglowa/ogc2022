@@ -1,0 +1,8 @@
+[
+    {
+        "content": "<ul>\n<li>\n<p>projekt w p5 editor podsumowujacy to co przerobilismy z javascript dotychczas <br>\n<a href=\"https://editor.p5js.org/sglowa/sketches/yUJOEIVkI\">tutaj</a><br>\n   i <a href=\"https://editor.p5js.org/sglowa/sketches/iGm-LrS6j\">tutaj</a> &lt;- osobny dokument dla SCOPE </p>\n<ul>\n<li>podsumowanie jest skrotowe dlatego osoby ktorych nie bylo na zajeciach prosze o zapoznanie sie najpierw z nagraniem.</li>\n<li>kod w podsumowaniach proponuje przepisywac/kopiowac we fragmentach do nowego dokumentu i dopiero tam go uruchamiac, krok po kroku (inaczej moze nie byc  jasne ktory komunikat logowany przez konsole odnosi sie do ktorego miejsca w kodzie)</li>\n</ul>\n</li>\n</ul>",
+        "id": 128,
+        "sender_full_name": "Stefan Glowacki",
+        "timestamp": 1649259561
+    }
+]
